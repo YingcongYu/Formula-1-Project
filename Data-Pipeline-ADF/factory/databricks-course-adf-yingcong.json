@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-adf-yingcong",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a369ee4c-a6b0-4093-acdb-0a0f17abf90b",
+		"tenantId": "19164ea8-dee8-4092-9ddc-ad7695e7ba64"
+	}
+}
